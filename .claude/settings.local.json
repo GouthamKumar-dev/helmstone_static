@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(start \"\" \"e:\\\\helmstone_static\\\\index.html\")"
+    ]
+  }
+}
